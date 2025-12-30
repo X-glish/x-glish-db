@@ -1,0 +1,2000 @@
+{
+    "wordvalue": [
+        {
+            "EnglishWord": "Algorithm",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "API",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "App",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "AI",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Artifact",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Agile",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Analytics",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Android",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Avatar",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Attachment",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Automation",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Adware",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Authenticate",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Admin",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Assets",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Amazon",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Alexa",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Airpods",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Auto-sync",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Archive",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Backend",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Browser",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Bandwidth",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Battery",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Bluetooth",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Blog",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Beta",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Bug",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Bot",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Blockchain",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Backup",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Binary",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Bios",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Buffer",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Byte",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Broadband",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Bitcoin",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Benchmark",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Blue-tick",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Boot",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Cloud",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Code",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Cache",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Cookie",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "CPU",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Chatbot",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Chrome",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Crypto",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Captcha",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Crash",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Cursor",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Cybersecurity",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Compiler",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Console",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Connection",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Configuration",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Compressing",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Click",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Clipboard",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "CMOS",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Data",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Database",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Debug",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Desktop",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Digital",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Download",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Domain",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "DNS",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Device",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Driver",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Dash",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Dark-mode",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Deepfake",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Deployment",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "DM",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Dongle",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Docker",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Dashboard",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Droid",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Disk",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Encryption",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Ethernet",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Email",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Emoji",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Excel",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Extension",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "EXE",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Export",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Error",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Engine",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "E-commerce",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Earbuds",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Edge",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Echo",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "E-waste",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Endpoint",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Emulator",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Environment",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "ESC",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Entity",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Firewall",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Format",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Folder",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "File",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Firmware",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Frontend",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Flash",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Filter",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Fiber",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Font",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "FAQ",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Feed",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Frame",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Fragment",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "FPS",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Flux",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Freeware",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Factory-reset",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Follow",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Flex",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Gigabyte",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "GPU",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "GUI",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Gateway",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Glitch",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Google",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Gmail",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Git",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Grid",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "GPS",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Gadget",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Gamer",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Giphy",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "G-drive",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Ghosting",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Github",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Gbps",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Garbage",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Gear",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Gen-AI",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Hardware",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Host",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "HTML",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "HTTP",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "HTTPS",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "HDD",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "HDMI",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Hub",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Hacker",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Hashtag",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Handle",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Highlight",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Hyperlink",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Handoff",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Hibernate",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Hertz",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Hosting",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Header",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Heuristics",
+            "scale": 1
+        },
+        {
+            "EnglishWord": "Hotspot",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Internet",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "IP",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Interface",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Icon",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Input",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Install",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Inbox",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Image",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Index",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Insights",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Instagram",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "iPhone",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "iOS",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "IoT",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "ISP",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Instance",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Infrastructure",
+            "scale": 1
+        },
+        {
+            "EnglishWord": "Integration",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Incognito",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Info",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "JavaScript",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "JSON",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "JPEG",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Joystick",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Junk",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Jars",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Java",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Jailbreak",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Jobs",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Jenkins",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Kernel",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Keyboard",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Keyword",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Kbps",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "KYC",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Kindle",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "K-Pop",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Kubernetes",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Key",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Kilobyte",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Laptop",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "LAN",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Link",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Login",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Logout",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Layout",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "LED",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "LCD",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Linux",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Library",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Log",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Logic",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Load",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Latency",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Lag",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Live",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Lit",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Localization",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "License",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Memory",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Mobile",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Mouse",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Monitor",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Modem",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Motherboard",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Microchip",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Malware",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Menu",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Media",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Meta",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Mention",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Meme",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Map",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Markup",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Macro",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Mainframe",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Milestone",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Module",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Mod",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Network",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Node",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Notification",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Notebook",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Netflix",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "NFT",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Noob",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Native",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Navigation",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Nanotechnology",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Null",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Newsletter",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Newsfeed",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Nexus",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Night-mode",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Niche",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Nuke",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Network-issue",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Nvidia",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Nas",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Offline",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Online",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "OS",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Output",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Optimization",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "Option",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Open-source",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Outlook",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "OTP",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "OTT",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Office",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Overclock",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Object",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Operational",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Operator",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Outage",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Offset",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Override",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Organic",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "On-prem",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Password",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Processor",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Pixel",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Plugin",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Port",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "PDF",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "PC",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Profile",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Post",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Privacy",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Proxy",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Protocol",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Ping",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Patch",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Podcast",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Premium",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Prime",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Prompt",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Python",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "PWA",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Query",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Queue",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "QR-code",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "RAM",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Router",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Resolution",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Reboot",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Refresh",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Restore",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Remote",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Reel",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Repo",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Render",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Registry",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Runtime",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Root",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Rack",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Radar",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Readme",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Reddit",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Software",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Server",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "System",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Smartphone",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "SSD",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Screenshot",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Screen-recording",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Security",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Search",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Settings",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Script",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Syntax",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Story",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Status",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Share",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Spam",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Scam",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Subscribe",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Stream",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Storage",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Sandbox",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Site",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Slack",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Sync",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Shell",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Socket",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Segment",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Startup",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "SaaS",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "SQL",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Tablet",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Tech",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Template",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Text",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Thread",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Tag",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Trending",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Troll",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Terminal",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Toolbox",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Toolbar",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Token",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Traffic",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Transfer",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Trash",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Trojan",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Tutorial",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Twitch",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Twitter",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Tab",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "URL",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "USB",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Update",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Upgrade",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Upload",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "UI",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "UX",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "User",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Utility",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Unix",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Uninstall",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Untag",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Unmute",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Unfollow",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Unblock",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Ubuntu",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Upskill",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "UPI",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Unicorn",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Uber",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Virtual",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "VPN",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Video",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Viral",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "View",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Vlog",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Voice-mail",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Volume",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Version",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Verification",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Vibe",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "Vector",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Variable",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Validation",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "VGA",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Virus",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Virtualization",
+            "scale": 2
+        },
+        {
+            "EnglishWord": "V-log",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "V-tuber",
+            "scale": 10
+        },
+        {
+            "EnglishWord": "V-card",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Website",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Wi-Fi",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Windows",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Widget",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Wizard",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Web-page",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Webinar",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "WhatsApp",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Wallet",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Wallpaper",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Web3",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Workspace",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Workflow",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Wireframe",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Webmaster",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Worm",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Warehouse",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "WFH",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Wiki",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Web-hosting",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "XML",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Xbox",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Xeon",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Xerox",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "X-axis",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "X-server",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "YAML",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "YouTube",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Youtuber",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Yield",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Zip",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Zoom",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Zettabyte",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Zero-day",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Zone",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Zoom-in",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Zoom-out",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Z-index",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Zebra",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Zepto",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "API-endpoint",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Autocorrect",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Auto-play",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Bitrate",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Blue-screen",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Boot-loader",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Case-sensitive",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Clean-code",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Click-through",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Cold-boot",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Content-creator",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Copy-paste",
+            "scale": 9
+        },
+        {
+            "EnglishWord": "Cyber-attack",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Data-mining",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Data-set",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Dead-link",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Default-setting",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Dev-ops",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Digital-twin",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Direct-message",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Double-click",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Drag-and-drop",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Dual-core",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "E-book",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "End-user",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Error-code",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "File-transfer",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Full-stack",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Game-dev",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Hard-reset",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Hot-fix",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "In-app",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Java-applet",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Key-logger",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Low-latency",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Machine-code",
+            "scale": 3
+        },
+        {
+            "EnglishWord": "Micro-service",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "Multi-tasking",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Net-neutrality",
+            "scale": 4
+        },
+        {
+            "EnglishWord": "No-code",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Offline-mode",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "One-click",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Open-source",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Opt-in",
+            "scale": 6
+        },
+        {
+            "EnglishWord": "Out-of-the-box",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Peer-to-peer",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Plug-and-play",
+            "scale": 8
+        },
+        {
+            "EnglishWord": "Push-notification",
+            "scale": 7
+        },
+        {
+            "EnglishWord": "Real-time",
+            "scale": 5
+        },
+        {
+            "EnglishWord": "Remote-access",
+            "scale": 6
+        }
+    ]
+}
