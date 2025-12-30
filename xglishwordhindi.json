@@ -1,0 +1,4132 @@
+{
+    "wordvalue": [
+        {
+            "EnglishWord": "Actually",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Experience",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Extra",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Current",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Context",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Important",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Problem",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Opportunity",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Information",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Response",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Advice",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Basically",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Obviously",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Serious",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mood",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Busy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tension",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Plan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Idea",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Risk",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Focus",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Simple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Perfect",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Normal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Special",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Common",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Local",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Direct",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fast",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Slow",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lucky",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Happy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sad",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Angry",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Late",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Early",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Real",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fake",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Original",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Private",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Public",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Single",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Double",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Empty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Open",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Close",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Start",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stop",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Finish",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wait",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ready",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Success",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Failure",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Result",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Target",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Goal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Level",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stage",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Chance",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Choice",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Select",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Final",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Official",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Personal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Professional",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Career",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Education",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Degree",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Project",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Deadline",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pressure",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Meeting",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Interview",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Job",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Salary",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bonus",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Investment",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Market",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stock",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Business",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Customer",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Staff",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Manager",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Boss",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Office",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Group",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Meeting",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Discussion",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Topic",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Section",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Category",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "List",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Item",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Price",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cost",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bill",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Payment",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cash",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Account",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bank",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Card",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Receipt",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Address",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Location",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Route",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Map",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "City",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Town",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Area",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Zone",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Local",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Global",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "System",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Network",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Signal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Data",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mobile",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Screen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Glass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Battery",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Charger",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cable",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Laptop",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Computer",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Password",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Login",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Logout",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Profile",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Settings",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Option",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Feature",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Version",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Update",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "App",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Site",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Web",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Net",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "WiFi",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Message",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Call",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Chat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Post",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Share",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Like",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Comment",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bio",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Link",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Follow",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hero",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Star",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Celebrity",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Show",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Event",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Party",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Function",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wedding",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Program",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Performance",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ticket",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Seat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Entry",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Exit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hall",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stage",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mic",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Camera",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Video",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Audio",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Track",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Beat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sound",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Voice",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Music",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Song",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Movie",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Film",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Story",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Script",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Role",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Character",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Act",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Action",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dialogue",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dubbing",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Edit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Save",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Delete",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Copy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paste",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cut",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clear",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Filter",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Search",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Find",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "View",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Look",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Watch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Point",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Score",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Match",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Game",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Player",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Captain",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Coach",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Winner",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loser",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Champion",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Record",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "History",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Future",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Past",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Time",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Date",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Year",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Month",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Week",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Day",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Night",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Morning",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Evening",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lunch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dinner",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Breakfast",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Meal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Diet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Health",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fitness",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gym",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Exercise",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Workout",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Energy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Power",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Control",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "System",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Main",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Side",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Front",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Back",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Top",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bottom",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Center",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Corner",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Left",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Right",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Up",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Down",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "High",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Low",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fast",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Slow",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Direct",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Quick",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Safe",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Risk",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Danger",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Total",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Average",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Maximum",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Minimum",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Extra",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Enough",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "More",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Less",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Zero",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Point",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Percent",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Rate",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Price",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cost",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Value",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Amount",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Balance",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Total",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sum",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Count",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Number",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Check",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Test",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Proof",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fact",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Truth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Secret",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "News",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Info",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Detail",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Note",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "File",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Data",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paper",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Book",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pencil",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Box",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pack",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sack",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Load",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Weight",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Scale",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Inch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Foot",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Meter",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Kilo",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gram",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Liter",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Unit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Piece",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Part",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Half",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Single",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Double",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Triple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Set",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pair",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Group",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Club",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Unit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Force",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Power",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Energy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fuel",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gas",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Oil",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Petrol",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Diesel",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Engine",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Machine",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Part",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Repair",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Service",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fix",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Break",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Damage",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fault",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Error",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Problem",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Solution",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Care",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Help",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Support",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Service",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Order",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Booking",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ticket",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Seat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Entry",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gate",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Door",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wall",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Floor",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Roof",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Window",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Room",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Kitchen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hall",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bed",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Chair",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Table",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sofa",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Desk",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Light",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "AC",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cooler",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Heater",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Switch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wire",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cable",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Plugin",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Socket",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Remote",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "TV",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Radio",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mobile",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Phone",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tab",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Watch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Smart",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clock",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Alarm",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bell",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ring",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tune",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Volume",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sound",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Quality",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Screen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Photo",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Video",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Frame",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Border",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Design",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Style",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Color",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Shade",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paint",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Brush",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Art",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Craft",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tool",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Kit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Set",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Brand",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Logo",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Label",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Size",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Large",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Medium",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Small",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Extra",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fitting",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loose",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tight",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Short",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Long",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Heel",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sole",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Leather",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cotton",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Silk",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fabric",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Material",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Quality",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fresh",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "New",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Latest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Trendy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Old",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Antique",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Modern",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Traditional",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Classic",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Simple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Complex",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hard",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soft",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sweet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sour",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Spicy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Salty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tasty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bad",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Great",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Best",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Top",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Only",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Just",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Also",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Even",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Still",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Yet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ever",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Never",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Always",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sometimes",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Often",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Maybe",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Perhaps",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Definitely",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Surely",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Probably",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clearly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Directly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Exactly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Perfectly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Right",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wrong",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "True",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "False",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fact",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Truth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Real",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fake",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Original",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Duplicate",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Copy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paste",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Print",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Scan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Share",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Save",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Send",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Receive",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Get",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Take",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Give",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Put",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Set",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Let",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Try",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Do",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Done",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fix",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Make",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Build",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Design",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Plan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Idea",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Concept",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Theory",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "System",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Process",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Method",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Style",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fashion",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Trend",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Popular",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Famous",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lucky",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Rich",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Poor",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "High",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Low",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Empty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clean",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dirty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Messy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Neat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Smart",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dumb",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clever",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Funny",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sad",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Happy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Angry",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Scary",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Serious",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tough",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soft",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loud",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Quiet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Calm",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cool",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hot",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Warm",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fresh",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Raw",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cooked",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fried",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Baked",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sweet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Salty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sour",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Spicy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tasty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Yummy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hungry",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Thirsty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Health",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pain",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sick",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fever",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cold",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cough",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Medicine",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Dose",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Injection",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cream",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tablet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Capsule",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Syrup",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bandage",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wound",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Scar",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Blood",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Test",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Report",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Positive",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Negative",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Normal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Abnormal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "High",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Low",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Heart",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mind",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soul",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Brain",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Body",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Muscle",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bone",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Skin",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Face",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Eye",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ear",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Nose",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Teeth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tongue",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hand",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Foot",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Leg",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Back",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Neck",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hair",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Nail",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Life",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Death",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Birth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Age",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Height",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Weight",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Male",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Female",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Man",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Woman",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Boy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Girl",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Child",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Baby",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Kid",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Senior",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Junior",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Boss",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Staff",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Partner",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Single",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Couple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Family",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Friend",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Neighbor",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Guest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Member",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Relative",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Leader",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Captain",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hero",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Star",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Role",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Character",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Act",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Scene",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Shot",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Take",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "View",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Show",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Live",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "On",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Off",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Up",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Down",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Back",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Front",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Side",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Way",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Road",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lane",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Street",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Map",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Trip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tour",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stay",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Visit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Rest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sleep",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bed",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hall",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Flat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Home",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Office",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Shop",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mall",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bank",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "School",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lab",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Class",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gym",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Park",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Zone",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Area",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Land",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Space",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sky",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sun",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Moon",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Star",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Planet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Earth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Nature",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Air",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Water",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fire",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gas",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Oil",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Petrol",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Diesel",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Power",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Energy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Battery",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Charge",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Unit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Load",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tax",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bill",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Receipt",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pay",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cash",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Card",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bank",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Interest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stock",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Share",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fund",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Price",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cost",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fee",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fine",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Money",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gold",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Silver",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ring",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Chain",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Watch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Suitcase",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Box",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pack",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gift",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Party",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Show",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Game",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Play",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Coach",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sport",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Win",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lose",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Draw",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Score",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Record",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Final",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ready",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Set",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Go",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wait",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stop",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pause",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Play",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Back",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Next",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "End",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Last",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Best",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Worst",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Better",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Worse",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "More",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Less",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Few",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Some",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "All",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "None",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Every",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Each",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Only",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Just",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Very",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "So",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Too",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Even",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Still",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Yet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Never",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ever",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Always",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Often",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Maybe",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Actually",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Basically",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Normally",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Obviously",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Definitely",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Surely",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Probably",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Really",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Simply",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clearly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Directly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Exactly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Perfectly",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Total",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Half",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Double",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Single",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pair",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Set",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "List",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Item",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Code",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "File",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Page",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Book",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paper",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pencil",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Note",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mail",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Post",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Message",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Text",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Link",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Site",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "App",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soft",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hard",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tech",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Digital",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cloud",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Data",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "WiFi",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Net",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Signal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Range",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tower",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Switch",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Button",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Key",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lock",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gate",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Road",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Way",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Path",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Car",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bike",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bus",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Train",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Flight",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Trip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stay",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Visit",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Guest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Member",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Staff",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Boss",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Salary",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Job",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Work",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Duty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Task",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Plan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Goal",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Target",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Aim",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Focus",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Point",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mark",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Score",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Rank",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Level",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Grade",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Result",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Test",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Exam",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fail",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Try",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Proof",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fact",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Truth",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Real",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fake",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Original",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "New",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Latest",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Modern",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Classic",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Simple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Style",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Design",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fashion",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Brand",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Logo",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Label",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Size",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Small",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Medium",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Large",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Full",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Total",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Price",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cost",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bill",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pay",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cash",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Card",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bank",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Account",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Safe",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Check",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fix",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Ready",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Go",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wait",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pause",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Stop",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Back",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Front",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Side",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Center",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Top",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bottom",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "High",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Low",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Deep",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wide",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Long",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Short",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Thick",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Thin",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soft",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hard",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tough",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Easy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Simple",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fast",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Slow",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Loud",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Quiet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clear",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Blur",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fresh",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Raw",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cold",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hot",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sweet",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Salty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sour",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bitter",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Spicy",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Tasty",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bad",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Good",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Great",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Nice",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fine",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Okay",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Well",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Done",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fixed",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Broken",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lost",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Found",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Win",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Lose",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Draw",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Play",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Game",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Match",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Team",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Club",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Hero",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Fan",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Star",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Role",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Act",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Show",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Event",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Party",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Wedding",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Gift",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Box",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bag",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Paper",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pen",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Phone",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Book",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Page",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Note",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "File",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Data",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Site",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "App",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Net",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Web",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Cloud",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Link",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Post",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Share",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Like",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Comment",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Status",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Story",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Video",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Audio",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Clip",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Track",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Beat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bass",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Sound",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Voice",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Talk",
+            "tobeused": false
+        },
+        {
+            "EnglishWord": "Chat",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Call",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mail",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Post",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Name",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "ID",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Bio",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Link",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Profile",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Photo",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Pic",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Selfie",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Frame",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Design",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Color",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mood",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Vibe",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Soul",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Mind",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Heart",
+            "tobeused": true
+        },
+        {
+            "EnglishWord": "Life",
+            "tobeused": true
+        }
+    ]
+}
